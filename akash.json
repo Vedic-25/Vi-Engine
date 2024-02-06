@@ -1,0 +1,29 @@
+[
+    {
+    "name": "rahul",
+    "age": 20,
+    "place": "NCR",
+    "hobbies": [
+        "cricket",
+        "volleyball",
+        "swimming"
+    ],
+    "Address": "djsdjshds",
+    "Salary": 5000,
+    "Working": false
+    },
+
+    {
+    "name": "shyam",
+    "age": 22,
+    "place": "bhopal",
+    "hobbies": [
+        "dance",
+        "ball",
+        "study"
+    ],
+    "Address": "djsdjshds",
+    "Salary": 2000,
+    "Working": true
+    }
+]
